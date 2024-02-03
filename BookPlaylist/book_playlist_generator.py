@@ -1,11 +1,10 @@
 import os
-from langchain.llms import OpenAI
-#from dotenv import load_dotenv
+from langchain_openai import OpenAI
+from dotenv import load_dotenv
 
 
-OPEN_AI_KEY = "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"
-# load_dotenv()
-os.environ["OPEN_AI_KEY"] = OPEN_AI_KEY
+load_dotenv()
+OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
 
 llm = OpenAI(openai_api_key=os.environ["OPEN_AI_KEY"], temperature=0.6)
 
