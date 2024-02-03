@@ -1,6 +1,6 @@
 import streamlit as st
-from book_playlist_generator import keywords
-from book_playlist_generator import music_recomender
+from book_playlist_generator_streamlit import keywords
+from book_playlist_generator_streamlit import music_recomender
 
 
 st.title("Book Playlist Generator")
@@ -20,5 +20,3 @@ if st.button("Generate Playlist"):
     st.write(
         f'Enjoy this music while reading chapter {num_chapter}, of {book_name} by {author_name}: ')
     st.write(music_recomended)
-
-
