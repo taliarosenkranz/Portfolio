@@ -6,6 +6,9 @@ from dotenv import load_dotenv
 load_dotenv()
 OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
 
+# paste own api key for testing
+#OPEN_AI_KEY = ""
+
 llm = OpenAI(openai_api_key=os.environ["OPEN_AI_KEY"], temperature=0.6)
 
 
