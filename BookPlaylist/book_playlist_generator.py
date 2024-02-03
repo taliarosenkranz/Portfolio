@@ -6,7 +6,7 @@ from langchain_openai import OpenAI
 #OPEN_AI_KEY = ""
 
 # load_dotenv()
-OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
+#OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
 
 '''if OPEN_AI_KEY:
     # Use the API key in your script
