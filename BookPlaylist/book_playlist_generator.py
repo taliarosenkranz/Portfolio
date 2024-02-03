@@ -1,13 +1,18 @@
 import os
 from langchain_openai import OpenAI
-from dotenv import load_dotenv
-
-
-load_dotenv()
-OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
+#from dotenv import load_dotenv
 
 # paste own api key for testing
 #OPEN_AI_KEY = ""
+
+# load_dotenv()
+OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
+
+'''if OPEN_AI_KEY:
+    # Use the API key in your script
+    print("API Key:", OPEN_AI_KEY)
+else:
+    print("API Key not found. Make sure it's defined in your .env file.")'''
 
 llm = OpenAI(openai_api_key=os.environ["OPEN_AI_KEY"], temperature=0.6)
 
