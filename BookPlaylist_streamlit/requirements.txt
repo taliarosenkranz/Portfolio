@@ -1,4 +1,4 @@
-langchain
+langchain_openai
 openai 
 streamlit
 python-dotenv==0.19.0
