@@ -1,12 +1,12 @@
 import os
 from langchain_openai import OpenAI
-#from dotenv import load_dotenv
+from dotenv import load_dotenv
 
 # paste own api key for testing
 #OPEN_AI_KEY = ""
 
-# load_dotenv()
-#OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
+load_dotenv()
+OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
 
 '''if OPEN_AI_KEY:
     # Use the API key in your script
