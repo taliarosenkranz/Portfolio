@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "volunteeringisrael",
+    "private_key_id": "3504ebfd1ca02ff1be2660941c0beb17875e7118",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgsvPMB17R8a9o\nxp0FpxDxvzYSH3TBBCLDKku1OEAuDWD0a3JTXvj4BoFHT1rMH0op0tzithvWhNOZ\n7WcKPFmDUh+1yE8BLRmkWL98tnQH+/wXNRhqIJ1fb5pjZI+evz+ZT49hVEV5mvm0\nWkCDfs6Qt+UB27BEowX/66+iCeiJs1DyE0hZK+5NcAEqRwf12n1IbzxnuTP8Oa7s\nSzo7ZWnv02XRDVHeT+wykqoAsihVHuNYpCoyzdNBcwBrjDF3rqa5/fHwcV/uz95a\nQViPQE23YGyNWzbEvPVLLTm4CM9d6wGbL8fIeLMzUXsEqCsm2Fp4TJbO39zlrveN\n1xr1cBS3AgMBAAECggEAZhRGN4F9rSj8BEB+o0vDod+5I8CQnQNQ+5LidACK/6Dq\nU//gH0n9F0h1QL0nRaZNXfTCjmgm+2y6aKp2bir+i28qor3OTn17sbLzwydsTRhH\n7Q8c+VG5zNp5q//KU1cVAIQpYhETwuwJ1spNlq9sDkjMy+xPBs988UfUMWwI7Uzk\nWcMXI2rALRRTu2y6NOboC7hj2T9XmMY3yJAIJHOhgxMzPVTHHcFUb9Ed2X0UE0uU\nXYpfdkZ628kdVfXM9gEMN1W29ggmN1GGYgkfnL/V4KLw9BqpDlldQDL/XZ3p/9O0\nUOjBGv+z7DH5oCpElR9vzJ199pEEjnuWyRgkIYU6sQKBgQD0ul6HFEBn/0CxSA/L\nUaWXnO2qU11PxFxlyrbaCwWM6puVbhFuV/G4JWf8KkU07BV4dhsZM83TBZ9OBtNP\nfzm7VgNQOqMjcVB0yFYLoJaYoWxriy7XsCBo+tBtFp5vwvaNVcTkGkfLgq5+XhJr\n3Q8TXO6p2mlJMvkJ0yfDOEm9/wKBgQDrDGr/sG9vpDmAtRz9OQ1uU9MWTNcU/vQG\nDGLZ/VqBwnIDiuORk90Wkyr90I2yf3BGQTS7upVElH5qu9k7BGZaF3IAKmy4QpVv\neObtTVGchlGKceDeFlp22yfYdxm05R5cjTAPHPCkLSAGvEVhVIi4wF4Z6CaEKA9v\nhCD1wSUZSQKBgQDZySjqKNmQMxWNLsXveD9XBy5xzzJRFDvt0lKbBAfyea3vcz5L\n5jOUXqWFQNDJ4fbRdrly2ikmy/AS7fwK2Pu1fTwBn80ic2rYIpiATG74cV8c7YXI\nKFMPWXU2P1TLvMLQ0C0hmUmfEDLc/jaCiv0pjCBQQ7BClfwOBD10e5kUXQKBgFrw\ndwVuMe8zzrupVwnx5OxmqijameyZp7gfWq+Ugkvp+0q7lchhOQze66c/5VLGU54a\n5FgtnEroWPDatPVMgn0gzQ6bW2z+9eonENGHNKgmn6282Y+TfnS13fi2O8/tRY3x\nYkK2o7QhcV6pwP4jQrKYWtATLbO7/BzdNhNfIwdhAoGANIR8kLQLoAlMmUZaz8Bm\n+fWtQJVyRJGtl3wcxZQNcFSVVN5sQEyGQ6iWhPUr00uO42l7IwUSKcCgnB8N/P7w\negR7JppCZrK0t7PbGTFq5GIgJsr3FVRYNZVP0LrFlHmeYFSECLfXKw1dJIvIqJFC\nNjwUjWqWNeqsTBrPGNztSf4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "volunteering-swords-of-iron@volunteeringisrael.iam.gserviceaccount.com",
+    "client_id": "115048516444136530099",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/volunteering-swords-of-iron%40volunteeringisrael.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
