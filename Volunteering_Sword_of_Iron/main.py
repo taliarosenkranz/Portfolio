@@ -1,4 +1,3 @@
-from tkinter import Button
 import streamlit as st
 import folium
 from folium.plugins import HeatMap

@@ -8,7 +8,7 @@ def registration_form():
         name = st.text_input("Organization Name: ")
         street = st.text_input("Street name: ")
         house_number = st.text_input("House number: ")
-        city = st.text_input("City:")
+        city = st.text_input("City: ")
         people_needed = st.number_input(
             "Number of people needed: ", min_value=0)
         email = st.text_input("Email Address")
@@ -19,6 +19,7 @@ def registration_form():
         st.success("Your details have been submitted successfully!")
 
     address = street+' '+house_number+','+' '+city
+    
 
     organization_data = [name, address, people_needed, email, phone]
     return organization_data
