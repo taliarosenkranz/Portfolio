@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talia</h1>
 <h3 align="center">I'm a Data Analyst with a masters degree in Data Science</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/media/053531508b8be8f7002815911fa86cdc.gif"
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taliarosenkranz" alt="taliarosenkranz" /></a> </p>
+<p align= "left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/media/053531508b8be8f7002815911fa86cdc.gif">
 
 - 🔭 I’m currently working on **Volunteering for Sword of Iron**. A platform to help find places to volunteer where they are really neede that day.(https://github.com/taliarosenkranz/Portfolio/tree/main/Volunteering_Sword_of_Iron)
 
