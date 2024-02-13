@@ -2,7 +2,8 @@
 <h3 align="center">I'm a Data Analyst with a masters degree in Data Science</h3>
 
 <p align= "left"> <img align="right" alt="Coding" width="400" src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_820/v1586410745/content-items/004/129/018/Female-Jabber-Jab-Gym-original.gif?1586410745">
-- 🔭 I’m currently working on **Volunteering for Sword of Iron**. A platform to help find places to volunteer where they are really neede that day.(https://github.com/taliarosenkranz/Portfolio/tree/main/Volunteering_Sword_of_Iron)
+  
+- 🔭 I’m currently working on **Volunteering for Sword of Iron** . A platform to help find places to volunteer where they are really neede that day.(https://github.com/taliarosenkranz/Portfolio/tree/main/Volunteering_Sword_of_Iron)
 
 - 🌱 I’m currently learning **fraud prevention analytics**
 
