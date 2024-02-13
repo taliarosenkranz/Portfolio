@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/talia-rosenkranz-b67766161/](https://www.linkedin.com/in/talia-rosenkranz-b67766161/)
 
-- ⚡ Fun fact **Scientifically, bananas qualify as berries, while strawberries do not.**
+- ⚡ Hobbys **Muay Thai, Classic Boxing, Skiing, Solo Traveling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
