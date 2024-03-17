@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/taliarosenkranz/Portfolio/tree/main](https://github.com/taliarosenkranz/Portfolio/tree/main)
 
-- 📝 I regularly write articles on my personal diary so you wont get to read anything any time soon ;)
-
 - 💬 Ask me about **anything you can't ask GPT**
 
 - 📫 How to reach me **talia.rosenkranz@gmail.com**
