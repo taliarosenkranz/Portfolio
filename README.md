@@ -3,7 +3,7 @@
 
 <p align= "left"> <img align="right" alt="Coding" width="400" src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_820/v1586410745/content-items/004/129/018/Female-Jabber-Jab-Gym-original.gif?1586410745">
   
-- 🔭 I’m currently working on **Volunteering for Sword of Iron** . A platform to help find places to volunteer where they are really neede that day.(https://github.com/taliarosenkranz/Portfolio/tree/main/Volunteering_Sword_of_Iron)
+- 🔭 I’m currently working on **Iron Volunteering** .A platform that connects people that are interested to help out organizations that are dedicated to support soldiers, displaced families and anyone who has been affected by the war. Supply & Demand update in real time. Check out the projects ReadMe for more infos! [[https://github.com/taliarosenkranz/Iron_volunteering/tree/main](https://github.com/taliarosenkranz/Iron_volunteering)
 
 - 🌱 I’m currently learning **fraud prevention analytics**
 
