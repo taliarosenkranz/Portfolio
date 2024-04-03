@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on **Iron Volunteering** .A platform that connects people that are interested to help out organizations that are dedicated to support soldiers, displaced families and anyone who has been affected by the war. Supply & Demand update in real time. Check out the projects ReadMe for more infos! [[https://github.com/taliarosenkranz/Iron_volunteering/tree/main](https://github.com/taliarosenkranz/Iron_volunteering)
 
-- 🌱 I’m currently learning **fraud prevention analytics**
+- 🌱 I’m currently learning doing a **Data Analytics Bootcamp**
 
 - 👯 I’m looking to collaborate on **projects implementing generative AI, fraud prevention or good deeds.** Anything that will help me develop my Python, SQL, data viz and analytics skills.
 
